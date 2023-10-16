@@ -3,8 +3,8 @@ GhibliBackground:
     - "models/Motion_Module/mm_sd_v14.ckpt"
     - "models/Motion_Module/mm_sd_v15.ckpt"
 
-  dreambooth_path: "models/DreamBooth_LoRA/CounterfeitV30_25.safetensors"
-  lora_model_path: "models/DreamBooth_LoRA/lora_Ghibli_n3.safetensors"
+  dreambooth_path: "models/DreamBooth_LoRA/CounterfeitV30_v30.safetensors"
+  lora_model_path: "models/DreamBooth_LoRA/Pyramid lora_Ghibli_n3.safetensors"
   lora_alpha: 1.0
 
   seed:           [8775748474469046618, 5893874876080607656, 11911465742147695752, 12437784838692000640]
